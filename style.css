@@ -1,0 +1,48 @@
+body{
+    background: rebeccapurple;
+}
+#title{
+    color: white;
+    margin-left: 500px;
+    background-color: lightskyblue;
+    width: 400px;
+    border-radius: 25%;
+    text-align: center;
+}
+.intro{
+    text-align: center;
+    color: white;
+}
+.pre{
+    color: green;
+    background: white;
+    margin-left: 650px;
+    width: 100px;
+    border-radius: 25%;
+}
+.cam1{
+    color: green;
+    background: white;
+    width: 100px;
+    border-radius: 25%
+}
+#camera{
+    border: black dashed 2px;
+    width: 400px;
+    height: 300px;
+}
+#snapshot{
+    border: black dashed 2px;
+    width: 400px;
+    height: 300px;
+}
+.cam2{
+    color: green;
+    background: white;
+    width: 100px;
+    border-radius: 25%
+}
+.mover{
+    margin-left: 975px;
+    margin-top: -350px;
+}
